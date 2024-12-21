@@ -20,5 +20,7 @@
 - Religion
 - Flag colors
 - Shared rivers or bodies of water
+- Doubly landlocked (There's only 2 countries)
+- Population density 
 
 
