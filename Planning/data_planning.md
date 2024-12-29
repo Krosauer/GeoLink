@@ -20,7 +20,12 @@
 - Religion
 - Flag colors
 - Shared rivers or bodies of water
+<<<<<<< HEAD
 - Something with Airports/Direct flights
 - Trade partners
+=======
+- Doubly landlocked (There's only 2 countries)
+- Population density 
+>>>>>>> d1d2319a2be2b38e878c598ec47e7a53883941b2
 
 
