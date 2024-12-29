@@ -11,6 +11,5 @@ ff.close()
 
 import pandas as pd
 df = pd.read_csv('countries.csv')
-# Add a new column to the dataframe called 'flag_colors' that contains the colors of the flag of the country in the 'name' column
 df['flag_colors'] = df['name'].str.lower().map(color_dict)
 df.to_csv('countires.csv', index=False)
