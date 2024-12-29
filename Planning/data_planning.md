@@ -20,5 +20,7 @@
 - Religion
 - Flag colors
 - Shared rivers or bodies of water
+- Something with Airports/Direct flights
+- Trade partners
 
 
