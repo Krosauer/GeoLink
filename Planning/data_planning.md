@@ -20,7 +20,6 @@
 - Religion
 - Flag colors
 - Shared rivers or bodies of water
-<<<<<<< HEAD
 - Something with Airports/Direct flights
 - Trade partners
 - Doubly landlocked (There's only 2 countries)
