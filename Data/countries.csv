@@ -29,7 +29,7 @@ Sri Lanka,LKA,True,Sri Lankan rupee,Sinhala;Tamil,False,IND,65610.0,21919000,UTC
 Bangladesh,BGD,True,Bangladeshi taka,Bengali,False,MMR;IND,147570.0,164689383,UTC+06:00,red;green,1333.4,2528.0,United States;Germany;United Kingdom,China;India;Singapore
 Peru,PER,True,Peruvian sol,Aymara;Quechua;Spanish,False,BOL;BRA;CHL;COL;ECU,1285216.0,32971846,UTC-05:00,red;white,26.7,7126.0,China;United States;Japan,China;United States;Brazil
 Singapore,SGP,True,Singapore dollar,English;Chinese;Malay;Tamil,False,,710.0,5685807,UTC+08:00,red;white,8539.4,78115.0,China;Malaysia,China;Malaysia;
-Turkey,TUR,True,Turkish lira,Turkish,False,ARM;AZE;BGR;GEO;GRC;IRN;IRQ;SYR,783562.0,84339067,UTC+03:00,red;white,113.7,,Germany;United States;Iraq,Russia;China;Germany
+Turkey,TUR,True,Turkish lira,Turkish,False,ARM;AZE;BGR;GEO;GRC;IRN;IRQ;SYR,783562.0,84339067,UTC+03:00,red;white,113.7,12985.0,Germany;United States;Iraq,Russia;China;Germany
 Afghanistan,AFG,True,Afghan afghani,Dari;Pashto;Turkmen,True,IRN;PAK;TKM;UZB;TJK;CHN,652230.0,40218234,UTC+04:30,black;red;green;white,65.7,345.0,Pakistan;India;China,China;United Arab Emirates;Pakistan
 United Kingdom,GBR,True,British pound,English,False,IRL,242900.0,67215293,UTC-08:00;UTC-05:00;UTC-04:00;UTC-03:00;UTC-02:00;UTC;UTC+01:00;UTC+02:00;UTC+06:00,red;white;blue,284.8,45758.0,United States;Germany;Netherlands,China;United States;Germany
 Zambia,ZMB,True,Zambian kwacha,English,True,AGO;BWA;COD;MWI;MOZ;NAM;TZA;ZWE,752612.0,18383956,UTC+02:00,green;red;black;orange,28.7,1456.0,Switzerland;China;DR Congo,South Africa;China;United Arab Emirates
@@ -60,7 +60,7 @@ Dominican Republic,DOM,True,Dominican peso,Spanish,False,HTI,48671.0,10847904,UT
 Qatar,QAT,True,Qatari riyal,Arabic,False,SAU,11586.0,2881060,UTC+03:00,maroon;white,263.1,87974.0,China;India;South Korea,China;United States;India
 Madagascar,MDG,True,Malagasy ariary,French;Malagasy,False,,587041.0,27691019,UTC+03:00,red;green;white,54.9,505.0,France;United States;Japan,China;Oman;France
 India,IND,True,Indian rupee,English;Hindi;Tamil,False,BGD;BTN;MMR;CHN;NPL;PAK,3287590.0,1380004385,UTC+05:30,saffronorange;blue;white;green,488.0,2445.0,United States;United Arab Emirates;Netherlands,China;United Arab Emirates;United States
-Syria,SYR,True,Syrian pound,Arabic,False,IRQ;ISR;JOR;LBN;TUR,185180.0,17500657,UTC+02:00,red;white;black;green,,840.0,Saudi Arabia;Turkey;Lebanon,Turkey;Russia;United Arab Emirates
+Syria,SYR,True,Syrian pound,Arabic,False,IRQ;ISR;JOR;LBN;TUR,185180.0,17500657,UTC+02:00,red;white;black;green,134.3,840.0,Saudi Arabia;Turkey;Lebanon,Turkey;Russia;United Arab Emirates
 Montenegro,MNE,True,Euro,Montenegrin,False,ALB;BIH;HRV;UNK;SRB,13812.0,621718,UTC+01:00,red;gold,46.2,9935.0,Serbia;Switzerland;Bosnia and Herzegovina,Serbia;China;Greece
 Eswatini,SWZ,True,Swazi lilangeni;South African rand,English;Swazi,True,MOZ;ZAF,17364.0,1160164,UTC+02:00,blue;yellow;red;black;white,71.6,3601.0,South Africa;Kenya;Nigeria,South Africa;China;India
 Paraguay,PRY,True,Paraguayan guaraní,Guaraní;Spanish,True,ARG;BOL;BRA,406752.0,7132530,UTC-04:00,red;white;blue,17.1,6153.0,Argentina;Brazil;Chile,China;Brazil;United States
@@ -123,9 +123,9 @@ Romania,ROU,True,Romanian leu,Romanian,False,BGR;HUN;MDA;SRB;UKR,238391.0,192861
 Trinidad and Tobago,TTO,True,Trinidad and Tobago dollar,English,False,,5130.0,1399491,UTC-04:00,red;white;black,293.9,19629.0,United States;Belgium;Morocco,United States;China;Brazil
 Guyana,GUY,True,Guyanese dollar,English,False,BRA;SUR;VEN,214969.0,786559,UTC-04:00,yellow;green,4.2,18199.0,Trinidad and Tobago;United States;Singapore,United States;China;Trinidad and Tobago
 Timor-Leste,TLS,True,United States dollar,Portuguese;Tetum,False,IDN,14874.0,1318442,UTC+09:00,red;yellow;black;white,94.2,2389.0,China;Indonesia;South Korea,Indonesia;China;
-Vietnam,VNM,True,Vietnamese đồng,Vietnamese,False,KHM;CHN;LAO,331212.0,97338583,UTC+07:00,yellow;red,,,,
+Vietnam,VNM,True,Vietnamese đồng,Vietnamese,False,KHM;CHN;LAO,331212.0,97338583,UTC+07:00,yellow;red,322.2,4164,,KHM;LAO;ARM
 Uruguay,URY,True,Uruguayan peso,Spanish,False,ARG;BRA,181034.0,3473727,UTC-03:00,blue;white,19.6,20793.0,Brazil;China,Brazil;China;Argentina
-Vatican City,VAT,False,Euro,Italian;Latin,True,ITA,0.44,451,UTC+01:00,white;gold,,,,
+Vatican City,VAT,False,Euro,Italian;Latin,True,ITA,0.44,451,UTC+01:00,white;gold,1559,19450.22,,
 Austria,AUT,True,Euro,German,True,CZE;DEU;HUN;ITA;LIE;SVK;SVN;CHE,83871.0,8917205,UTC+01:00,red;white,110.5,52609.0,Germany;Italy;United States,Germany;China;Italy
 Antigua and Barbuda,ATG,True,Eastern Caribbean dollar,English,False,,442.0,97928,UTC-04:00,red;white;blue;black;yellow,213.1,18880.0,United States;China,United States;Japan;Trinidad and Tobago
 Turkmenistan,TKM,True,Turkmenistan manat,Russian;Turkmen,True,AFG;IRN;KAZ;UZB,488100.0,6031187,UTC+05:00,green;white,15.9,10420.0,China;Turkey;Greece,United Arab Emirates;Turkey;China
@@ -137,7 +137,7 @@ Norway,NOR,True,Norwegian krone,Norwegian Nynorsk;Norwegian Bokmål;Sami,False,F
 Central African Republic,CAF,True,Central African CFA franc,French;Sango,True,CMR;TCD;COD;COG;SSD;SDN,622984.0,4829764,UTC+01:00,blue;white;green;yellow;red,8.6,429.0,United Arab Emirates;Pakistan;Italy,Cameroon;United States;France
 Burkina Faso,BFA,True,West African CFA franc,French,True,BEN;CIV;GHA;MLI;NER;TGO,272967.0,20903278,UTC,red;green;yellow,86.1,846.0,Switzerland;United Arab Emirates;Mali,Côte d’Ivoire;China;Russia
 Eritrea,ERI,True,Eritrean nakfa,Arabic;English;Tigrinya,False,DJI;ETH;SDN,117600.0,5352000,UTC+03:00,green;blue;red;yellow,29.2,647.0,China;United Arab Emirates;South Korea,China;United Arab Emirates;Turkey
-Tanzania,TZA,True,Tanzanian shilling,English;Swahili,False,BDI;COD;KEN;MWI;MOZ;RWA;UGA;ZMB,945087.0,59734213,UTC+03:00,green;yellow;blue;black,,1154.0,India;South Africa;United Arab Emirates,China;India;United Arab Emirates
+Tanzania,TZA,True,Tanzanian shilling,English;Swahili,False,BDI;COD;KEN;MWI;MOZ;RWA;UGA;ZMB,945087.0,59734213,UTC+03:00,green;yellow;blue;black,77.4,1154.0,India;South Africa;United Arab Emirates,China;India;United Arab Emirates
 South Korea,KOR,True,South Korean won,Korean,False,PRK,100210.0,51780579,UTC+09:00,white;red;blue;black,522.7,32305.0,China;United States;Vietnam,China;United States;Japan
 Jordan,JOR,True,Jordanian dinar,Arabic,False,IRQ;ISR;PSE;SAU;SYR,89342.0,10203140,UTC+03:00,black;white;green;red,130.1,4205.0,United States;India;Saudi Arabia,China;Saudi Arabia;United Arab Emirates
 Mauritania,MRT,True,Mauritanian ouguiya,Arabic,False,DZA;MLI;SEN;ESH,1030700.0,4649660,UTC,green;yellow;red,5.0,2322.0,China;Canada;Spain,United Arab Emirates;Spain;Japan
@@ -189,3 +189,9 @@ Belgium,BEL,True,Euro,German;French;Dutch,False,FRA;DEU;LUX;NLD,30528.0,11555997
 Israel,ISR,True,Israeli new shekel,Arabic;Hebrew,False,EGY;JOR;LBN;PSE;SYR,20770.0,9216900,UTC+02:00,blue;white,433.7,58086.0,United States;China,China;Areas nes;United States
 New Zealand,NZL,True,New Zealand dollar,English;Māori;New Zealand Sign Language,False,,270467.0,5084300,UTC-11:00;UTC-10:00;UTC+12:00;UTC+12:45;UTC+13:00,blue;red;white,19.7,47412.0,China;Australia;United States,China;Australia;United States
 Nicaragua,NIC,True,Nicaraguan córdoba,Spanish,False,CRI;HND,130373.0,6624554,UTC-06:00,blue;white,57.5,2255.0,United States;Mexico;El Salvador,United States;China;Mexico
+Kosovo,UNK,False,Euro,Albanian;Serbian,True,ALB;MNE;SRB;MKD,10887.0,1772128,UTC+01:00,blue;yellow;white,154.5,5662.0,,
+Palestine,PSE,False,Israeli new shekel;United States dollar;Jordanian dinar,Arabic,True,EGY;JOR;ISR,6020.0,5589623,UTC+02:00,red;black;white;green,912.9,3640,,
+Republic of the Congo,COG,True,Congolese franc,French;Kikongo;Lingalal;Swahili;Tshiluba,False,GAB;CMR;CAF;COD;AGO,342000.0,6107000,UTC+01:00,yellow;green;red,18.5,2570,CHN;FRA;BEL,CHN;CIV;TGO
+Côte d'Ivoire,CIV,True,
+Cape Verde,CPV,True
+Taiwan,TWN,False
