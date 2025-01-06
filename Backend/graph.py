@@ -14,9 +14,10 @@ for _, row in nodes_df.iterrows():
                population_density=row['population_density'], gdp_per_capita=row['GDP Per Capita'],
                exports=row['exports'], imports=row['imports'])
 
-for _, row in edges_df.iterrows():
-   G.add_edge(row['source'], row['target'], attribute=row['type'])
+valid_nodes = set(G.nodes())
+for index, row in edges_df.iterrows():
+    country1 = row['source']
+    country2 = row['target']
+    if country1 in valid_nodes and country2 in valid_nodes:
+        G.add_edge(country1, country2, connection_type=row['type'])
 
-
-for node, data in G.nodes(data=True):
-    print(f"Node: {node}, Attributes: {data}")
