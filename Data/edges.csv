@@ -1739,6 +1739,7 @@ Switzerland,Comoros,French
 Switzerland,Chad,French
 Switzerland,Belgium,French
 Switzerland,Republic of the Congo,French
+Switzerland,Côte d'Ivoire,French
 Benin,Burundi,French
 Benin,France,French
 Benin,Gabon,French
@@ -1767,6 +1768,7 @@ Benin,Comoros,French
 Benin,Chad,French
 Benin,Belgium,French
 Benin,Republic of the Congo,French
+Benin,Côte d'Ivoire,French
 Burundi,France,French
 Burundi,Gabon,French
 Burundi,Senegal,French
@@ -1794,6 +1796,7 @@ Burundi,Comoros,French
 Burundi,Chad,French
 Burundi,Belgium,French
 Burundi,Republic of the Congo,French
+Burundi,Côte d'Ivoire,French
 France,Gabon,French
 France,Senegal,French
 France,Niger,French
@@ -1820,6 +1823,7 @@ France,Comoros,French
 France,Chad,French
 France,Belgium,French
 France,Republic of the Congo,French
+France,Côte d'Ivoire,French
 Gabon,Senegal,French
 Gabon,Niger,French
 Gabon,Djibouti,French
@@ -1845,6 +1849,7 @@ Gabon,Comoros,French
 Gabon,Chad,French
 Gabon,Belgium,French
 Gabon,Republic of the Congo,French
+Gabon,Côte d'Ivoire,French
 Senegal,Niger,French
 Senegal,Djibouti,French
 Senegal,Mauritius,French
@@ -1869,6 +1874,7 @@ Senegal,Comoros,French
 Senegal,Chad,French
 Senegal,Belgium,French
 Senegal,Republic of the Congo,French
+Senegal,Côte d'Ivoire,French
 Niger,Djibouti,French
 Niger,Mauritius,French
 Niger,Monaco,French
@@ -1892,6 +1898,7 @@ Niger,Comoros,French
 Niger,Chad,French
 Niger,Belgium,French
 Niger,Republic of the Congo,French
+Niger,Côte d'Ivoire,French
 Djibouti,Mauritius,French
 Djibouti,Monaco,French
 Djibouti,Lebanon,French
@@ -1914,6 +1921,7 @@ Djibouti,Comoros,French
 Djibouti,Chad,French
 Djibouti,Belgium,French
 Djibouti,Republic of the Congo,French
+Djibouti,Côte d'Ivoire,French
 Mauritius,Monaco,French
 Mauritius,Lebanon,French
 Mauritius,Madagascar,French
@@ -1935,6 +1943,7 @@ Mauritius,Comoros,French
 Mauritius,Chad,French
 Mauritius,Belgium,French
 Mauritius,Republic of the Congo,French
+Mauritius,Côte d'Ivoire,French
 Monaco,Lebanon,French
 Monaco,Madagascar,French
 Monaco,Canada,French
@@ -1955,6 +1964,7 @@ Monaco,Comoros,French
 Monaco,Chad,French
 Monaco,Belgium,French
 Monaco,Republic of the Congo,French
+Monaco,Côte d'Ivoire,French
 Lebanon,Madagascar,French
 Lebanon,Canada,French
 Lebanon,Luxembourg,French
@@ -1974,6 +1984,7 @@ Lebanon,Comoros,French
 Lebanon,Chad,French
 Lebanon,Belgium,French
 Lebanon,Republic of the Congo,French
+Lebanon,Côte d'Ivoire,French
 Madagascar,Canada,French
 Madagascar,Luxembourg,French
 Madagascar,Haiti,French
@@ -1992,6 +2003,7 @@ Madagascar,Comoros,French
 Madagascar,Chad,French
 Madagascar,Belgium,French
 Madagascar,Republic of the Congo,French
+Madagascar,Côte d'Ivoire,French
 Canada,Luxembourg,French
 Canada,Haiti,French
 Canada,Equatorial Guinea,French
@@ -2009,6 +2021,7 @@ Canada,Comoros,French
 Canada,Chad,French
 Canada,Belgium,French
 Canada,Republic of the Congo,French
+Canada,Côte d'Ivoire,French
 Luxembourg,Haiti,French
 Luxembourg,Equatorial Guinea,French
 Luxembourg,Cameroon,French
@@ -2025,6 +2038,7 @@ Luxembourg,Comoros,French
 Luxembourg,Chad,French
 Luxembourg,Belgium,French
 Luxembourg,Republic of the Congo,French
+Luxembourg,Côte d'Ivoire,French
 Haiti,Equatorial Guinea,French
 Haiti,Cameroon,French
 Haiti,Guinea,French
@@ -2040,6 +2054,7 @@ Haiti,Comoros,French
 Haiti,Chad,French
 Haiti,Belgium,French
 Haiti,Republic of the Congo,French
+Haiti,Côte d'Ivoire,French
 Equatorial Guinea,Cameroon,French
 Equatorial Guinea,Guinea,French
 Equatorial Guinea,DR Congo,French
@@ -2054,6 +2069,7 @@ Equatorial Guinea,Comoros,French
 Equatorial Guinea,Chad,French
 Equatorial Guinea,Belgium,French
 Equatorial Guinea,Republic of the Congo,French
+Equatorial Guinea,Côte d'Ivoire,French
 Cameroon,Guinea,French
 Cameroon,DR Congo,French
 Cameroon,Vanuatu,French
@@ -2067,6 +2083,7 @@ Cameroon,Comoros,French
 Cameroon,Chad,French
 Cameroon,Belgium,French
 Cameroon,Republic of the Congo,French
+Cameroon,Côte d'Ivoire,French
 Guinea,DR Congo,French
 Guinea,Vanuatu,French
 Guinea,Togo,French
@@ -2079,6 +2096,7 @@ Guinea,Comoros,French
 Guinea,Chad,French
 Guinea,Belgium,French
 Guinea,Republic of the Congo,French
+Guinea,Côte d'Ivoire,French
 DR Congo,Vanuatu,French
 DR Congo,Togo,French
 DR Congo,Rwanda,French
@@ -2090,6 +2108,7 @@ DR Congo,Comoros,French
 DR Congo,Chad,French
 DR Congo,Belgium,French
 DR Congo,Republic of the Congo,French
+DR Congo,Côte d'Ivoire,French
 Vanuatu,Togo,French
 Vanuatu,Rwanda,French
 Vanuatu,Central African Republic,French
@@ -2100,6 +2119,7 @@ Vanuatu,Comoros,French
 Vanuatu,Chad,French
 Vanuatu,Belgium,French
 Vanuatu,Republic of the Congo,French
+Vanuatu,Côte d'Ivoire,French
 Togo,Rwanda,French
 Togo,Central African Republic,French
 Togo,Burkina Faso,French
@@ -2109,6 +2129,7 @@ Togo,Comoros,French
 Togo,Chad,French
 Togo,Belgium,French
 Togo,Republic of the Congo,French
+Togo,Côte d'Ivoire,French
 Rwanda,Central African Republic,French
 Rwanda,Burkina Faso,French
 Rwanda,Mali,French
@@ -2117,6 +2138,7 @@ Rwanda,Comoros,French
 Rwanda,Chad,French
 Rwanda,Belgium,French
 Rwanda,Republic of the Congo,French
+Rwanda,Côte d'Ivoire,French
 Central African Republic,Burkina Faso,French
 Central African Republic,Mali,French
 Central African Republic,Seychelles,French
@@ -2124,27 +2146,35 @@ Central African Republic,Comoros,French
 Central African Republic,Chad,French
 Central African Republic,Belgium,French
 Central African Republic,Republic of the Congo,French
+Central African Republic,Côte d'Ivoire,French
 Burkina Faso,Mali,French
 Burkina Faso,Seychelles,French
 Burkina Faso,Comoros,French
 Burkina Faso,Chad,French
 Burkina Faso,Belgium,French
 Burkina Faso,Republic of the Congo,French
+Burkina Faso,Côte d'Ivoire,French
 Mali,Seychelles,French
 Mali,Comoros,French
 Mali,Chad,French
 Mali,Belgium,French
 Mali,Republic of the Congo,French
+Mali,Côte d'Ivoire,French
 Seychelles,Comoros,French
 Seychelles,Chad,French
 Seychelles,Belgium,French
 Seychelles,Republic of the Congo,French
+Seychelles,Côte d'Ivoire,French
 Comoros,Chad,French
 Comoros,Belgium,French
 Comoros,Republic of the Congo,French
+Comoros,Côte d'Ivoire,French
 Chad,Belgium,French
 Chad,Republic of the Congo,French
+Chad,Côte d'Ivoire,French
 Belgium,Republic of the Congo,French
+Belgium,Côte d'Ivoire,French
+Republic of the Congo,Côte d'Ivoire,French
 Switzerland,Italy,Italian
 Switzerland,San Marino,Italian
 Switzerland,Vatican City,Italian
@@ -2722,21 +2752,28 @@ Guinea-Bissau,Mozambique,Portuguese
 Guinea-Bissau,Angola,Portuguese
 Guinea-Bissau,Brazil,Portuguese
 Guinea-Bissau,Portugal,Portuguese
+Guinea-Bissau,Cape Verde,Portuguese
 Equatorial Guinea,Timor-Leste,Portuguese
 Equatorial Guinea,Mozambique,Portuguese
 Equatorial Guinea,Angola,Portuguese
 Equatorial Guinea,Brazil,Portuguese
 Equatorial Guinea,Portugal,Portuguese
+Equatorial Guinea,Cape Verde,Portuguese
 Timor-Leste,Mozambique,Portuguese
 Timor-Leste,Angola,Portuguese
 Timor-Leste,Brazil,Portuguese
 Timor-Leste,Portugal,Portuguese
+Timor-Leste,Cape Verde,Portuguese
 Mozambique,Angola,Portuguese
 Mozambique,Brazil,Portuguese
 Mozambique,Portugal,Portuguese
+Mozambique,Cape Verde,Portuguese
 Angola,Brazil,Portuguese
 Angola,Portugal,Portuguese
+Angola,Cape Verde,Portuguese
 Brazil,Portugal,Portuguese
+Brazil,Cape Verde,Portuguese
+Portugal,Cape Verde,Portuguese
 North Korea,South Korea,Korean
 Greece,Cyprus,Greek
 Croatia,Bosnia and Herzegovina,Croatian
@@ -3118,21 +3155,28 @@ Benin,Guinea-Bissau,West African CFA franc
 Benin,Togo,West African CFA franc
 Benin,Burkina Faso,West African CFA franc
 Benin,Mali,West African CFA franc
+Benin,Côte d'Ivoire,West African CFA franc
 Senegal,Niger,West African CFA franc
 Senegal,Guinea-Bissau,West African CFA franc
 Senegal,Togo,West African CFA franc
 Senegal,Burkina Faso,West African CFA franc
 Senegal,Mali,West African CFA franc
+Senegal,Côte d'Ivoire,West African CFA franc
 Niger,Guinea-Bissau,West African CFA franc
 Niger,Togo,West African CFA franc
 Niger,Burkina Faso,West African CFA franc
 Niger,Mali,West African CFA franc
+Niger,Côte d'Ivoire,West African CFA franc
 Guinea-Bissau,Togo,West African CFA franc
 Guinea-Bissau,Burkina Faso,West African CFA franc
 Guinea-Bissau,Mali,West African CFA franc
+Guinea-Bissau,Côte d'Ivoire,West African CFA franc
 Togo,Burkina Faso,West African CFA franc
 Togo,Mali,West African CFA franc
+Togo,Côte d'Ivoire,West African CFA franc
 Burkina Faso,Mali,West African CFA franc
+Burkina Faso,Côte d'Ivoire,West African CFA franc
+Mali,Côte d'Ivoire,West African CFA franc
 South Africa,Eswatini,South African rand
 South Africa,Namibia,South African rand
 South Africa,Lesotho,South African rand
@@ -4605,6 +4649,7 @@ Grenada,Comoros,area
 Grenada,Tonga,area
 Grenada,Kiribati,area
 Grenada,Palestine,area
+Grenada,Cape Verde,area
 Switzerland,Guinea-Bissau,area
 Switzerland,Netherlands,area
 Switzerland,Dominican Republic,area
@@ -4615,6 +4660,7 @@ Switzerland,Estonia,area
 Switzerland,Slovakia,area
 Switzerland,Moldova,area
 Switzerland,Bhutan,area
+Switzerland,Taiwan,area
 Sierra Leone,Sri Lanka,area
 Sierra Leone,Georgia,area
 Sierra Leone,Latvia,area
@@ -4660,6 +4706,7 @@ Barbados,Comoros,area
 Barbados,Tonga,area
 Barbados,Kiribati,area
 Barbados,Palestine,area
+Barbados,Cape Verde,area
 Tunisia,Suriname,area
 Italy,Oman,area
 Benin,North Korea,area
@@ -4700,6 +4747,7 @@ Saint Kitts and Nevis,Comoros,area
 Saint Kitts and Nevis,Tonga,area
 Saint Kitts and Nevis,Kiribati,area
 Saint Kitts and Nevis,Palestine,area
+Saint Kitts and Nevis,Cape Verde,area
 Laos,Uganda,area
 Laos,United Kingdom,area
 Laos,Guinea,area
@@ -4738,6 +4786,7 @@ Andorra,Comoros,area
 Andorra,Tonga,area
 Andorra,Kiribati,area
 Andorra,Palestine,area
+Andorra,Cape Verde,area
 Burundi,North Macedonia,area
 Burundi,Solomon Islands,area
 Burundi,Guinea-Bissau,area
@@ -4755,6 +4804,7 @@ Burundi,Albania,area
 Burundi,Belize,area
 Burundi,Belgium,area
 Burundi,Israel,area
+Burundi,Taiwan,area
 Gabon,Burkina Faso,area
 Gabon,Ecuador,area
 Gabon,New Zealand,area
@@ -4790,6 +4840,7 @@ Solomon Islands,Belize,area
 Solomon Islands,Bhutan,area
 Solomon Islands,Belgium,area
 Solomon Islands,Israel,area
+Solomon Islands,Taiwan,area
 Uzbekistan,Morocco,area
 Uzbekistan,Iraq,area
 Uzbekistan,Sweden,area
@@ -4833,6 +4884,7 @@ Singapore,Comoros,area
 Singapore,Tonga,area
 Singapore,Kiribati,area
 Singapore,Palestine,area
+Singapore,Cape Verde,area
 United Kingdom,Guinea,area
 United Kingdom,Romania,area
 United Kingdom,Ghana,area
@@ -4853,6 +4905,7 @@ Guinea-Bissau,Armenia,area
 Guinea-Bissau,Albania,area
 Guinea-Bissau,Bhutan,area
 Guinea-Bissau,Belgium,area
+Guinea-Bissau,Taiwan,area
 Azerbaijan,United Arab Emirates,area
 Azerbaijan,Czechia,area
 Azerbaijan,Austria,area
@@ -4913,6 +4966,7 @@ Mauritius,Tonga,area
 Mauritius,Kiribati,area
 Mauritius,Kosovo,area
 Mauritius,Palestine,area
+Mauritius,Cape Verde,area
 Greece,Nicaragua,area
 Croatia,Dominican Republic,area
 Croatia,Bosnia and Herzegovina,area
@@ -4931,6 +4985,7 @@ Netherlands,Estonia,area
 Netherlands,Slovakia,area
 Netherlands,Moldova,area
 Netherlands,Bhutan,area
+Netherlands,Taiwan,area
 Fiji,Lebanon,area
 Fiji,Qatar,area
 Fiji,Montenegro,area
@@ -4975,6 +5030,7 @@ Liechtenstein,Comoros,area
 Liechtenstein,Tonga,area
 Liechtenstein,Kiribati,area
 Liechtenstein,Palestine,area
+Liechtenstein,Cape Verde,area
 Nepal,Tajikistan,area
 Georgia,Latvia,area
 Georgia,Czechia,area
@@ -5005,6 +5061,7 @@ Monaco,Comoros,area
 Monaco,Tonga,area
 Monaco,Kiribati,area
 Monaco,Palestine,area
+Monaco,Cape Verde,area
 Botswana,Madagascar,area
 Botswana,Kenya,area
 Lebanon,Qatar,area
@@ -5033,6 +5090,7 @@ Lebanon,Tonga,area
 Lebanon,Kiribati,area
 Lebanon,Kosovo,area
 Lebanon,Palestine,area
+Lebanon,Cape Verde,area
 Dominican Republic,Bosnia and Herzegovina,area
 Dominican Republic,Costa Rica,area
 Dominican Republic,Denmark,area
@@ -5058,6 +5116,7 @@ Qatar,Comoros,area
 Qatar,Israel,area
 Qatar,Kosovo,area
 Qatar,Palestine,area
+Qatar,Cape Verde,area
 Madagascar,Kenya,area
 Syria,Cambodia,area
 Syria,Uruguay,area
@@ -5077,6 +5136,7 @@ Montenegro,Brunei,area
 Montenegro,Israel,area
 Montenegro,Kosovo,area
 Montenegro,Palestine,area
+Montenegro,Cape Verde,area
 Eswatini,El Salvador,area
 Eswatini,Cyprus,area
 Eswatini,Slovenia,area
@@ -5128,6 +5188,7 @@ Cuba,Liberia,area
 Kyrgyzstan,Belarus,area
 Malaysia,Vietnam,area
 Malaysia,Norway,area
+Malaysia,Côte d'Ivoire,area
 Cyprus,San Marino,area
 Cyprus,Marshall Islands,area
 Cyprus,Luxembourg,area
@@ -5158,6 +5219,7 @@ Cyprus,Tonga,area
 Cyprus,Kiribati,area
 Cyprus,Kosovo,area
 Cyprus,Palestine,area
+Cyprus,Cape Verde,area
 Malawi,Honduras,area
 Malawi,Eritrea,area
 Malawi,Guatemala,area
@@ -5206,6 +5268,7 @@ San Marino,Comoros,area
 San Marino,Tonga,area
 San Marino,Kiribati,area
 San Marino,Palestine,area
+San Marino,Cape Verde,area
 Lesotho,Haiti,area
 Lesotho,Equatorial Guinea,area
 Lesotho,Rwanda,area
@@ -5216,6 +5279,7 @@ Lesotho,Belize,area
 Lesotho,Bhutan,area
 Lesotho,Belgium,area
 Lesotho,Israel,area
+Lesotho,Taiwan,area
 Marshall Islands,Luxembourg,area
 Marshall Islands,Nauru,area
 Marshall Islands,Dominica,area
@@ -5237,6 +5301,7 @@ Marshall Islands,Comoros,area
 Marshall Islands,Tonga,area
 Marshall Islands,Kiribati,area
 Marshall Islands,Palestine,area
+Marshall Islands,Cape Verde,area
 Iceland,Honduras,area
 Iceland,South Korea,area
 Iceland,Guatemala,area
@@ -5265,6 +5330,7 @@ Luxembourg,Tonga,area
 Luxembourg,Kiribati,area
 Luxembourg,Kosovo,area
 Luxembourg,Palestine,area
+Luxembourg,Cape Verde,area
 Nauru,Dominica,area
 Nauru,Tuvalu,area
 Nauru,Saint Lucia,area
@@ -5284,6 +5350,7 @@ Nauru,Comoros,area
 Nauru,Tonga,area
 Nauru,Kiribati,area
 Nauru,Palestine,area
+Nauru,Cape Verde,area
 Dominica,Tuvalu,area
 Dominica,Saint Lucia,area
 Dominica,Palau,area
@@ -5303,6 +5370,7 @@ Dominica,Comoros,area
 Dominica,Tonga,area
 Dominica,Kiribati,area
 Dominica,Palestine,area
+Dominica,Cape Verde,area
 Costa Rica,Denmark,area
 Costa Rica,Togo,area
 Costa Rica,Estonia,area
@@ -5316,6 +5384,7 @@ Haiti,Albania,area
 Haiti,Belize,area
 Haiti,Belgium,area
 Haiti,Israel,area
+Haiti,Taiwan,area
 Tuvalu,Saint Lucia,area
 Tuvalu,Palau,area
 Tuvalu,Bahrain,area
@@ -5333,6 +5402,7 @@ Tuvalu,Comoros,area
 Tuvalu,Tonga,area
 Tuvalu,Kiribati,area
 Tuvalu,Palestine,area
+Tuvalu,Cape Verde,area
 Honduras,Eritrea,area
 Honduras,Guatemala,area
 Honduras,Liberia,area
@@ -5343,6 +5413,7 @@ Equatorial Guinea,Albania,area
 Equatorial Guinea,Belize,area
 Equatorial Guinea,Belgium,area
 Equatorial Guinea,Israel,area
+Equatorial Guinea,Taiwan,area
 Saint Lucia,Palau,area
 Saint Lucia,Bahrain,area
 Saint Lucia,Trinidad and Tobago,area
@@ -5359,6 +5430,7 @@ Saint Lucia,Comoros,area
 Saint Lucia,Tonga,area
 Saint Lucia,Kiribati,area
 Saint Lucia,Palestine,area
+Saint Lucia,Cape Verde,area
 Belarus,Guyana,area
 Latvia,Togo,area
 Latvia,Ireland,area
@@ -5378,11 +5450,13 @@ Palau,Comoros,area
 Palau,Tonga,area
 Palau,Kiribati,area
 Palau,Palestine,area
+Palau,Cape Verde,area
 Philippines,Republic of the Congo,area
 Denmark,Estonia,area
 Denmark,Slovakia,area
 Denmark,Moldova,area
 Denmark,Bhutan,area
+Denmark,Taiwan,area
 Guinea,Romania,area
 Guinea,Ghana,area
 Bahrain,Trinidad and Tobago,area
@@ -5400,6 +5474,7 @@ Bahrain,Comoros,area
 Bahrain,Tonga,area
 Bahrain,Kiribati,area
 Bahrain,Palestine,area
+Bahrain,Cape Verde,area
 Czechia,Austria,area
 Czechia,Panama,area
 Czechia,Ireland,area
@@ -5415,6 +5490,7 @@ Vanuatu,Brunei,area
 Vanuatu,Israel,area
 Vanuatu,Kosovo,area
 Vanuatu,Palestine,area
+Vanuatu,Cape Verde,area
 Togo,Lithuania,area
 Togo,Slovakia,area
 Rwanda,Moldova,area
@@ -5424,8 +5500,10 @@ Rwanda,Albania,area
 Rwanda,Belize,area
 Rwanda,Belgium,area
 Rwanda,Israel,area
+Rwanda,Taiwan,area
 Estonia,Slovakia,area
 Estonia,Bhutan,area
+Estonia,Taiwan,area
 Romania,Ghana,area
 Trinidad and Tobago,Timor-Leste,area
 Trinidad and Tobago,Vatican City,area
@@ -5445,6 +5523,7 @@ Trinidad and Tobago,Tonga,area
 Trinidad and Tobago,Kiribati,area
 Trinidad and Tobago,Kosovo,area
 Trinidad and Tobago,Palestine,area
+Trinidad and Tobago,Cape Verde,area
 Timor-Leste,Gambia,area
 Timor-Leste,Bahamas,area
 Timor-Leste,Kuwait,area
@@ -5455,6 +5534,7 @@ Timor-Leste,Israel,area
 Timor-Leste,Kosovo,area
 Timor-Leste,Palestine,area
 Vietnam,Norway,area
+Vietnam,Côte d'Ivoire,area
 Vatican City,Antigua and Barbuda,area
 Vatican City,Micronesia,area
 Vatican City,Samoa,area
@@ -5467,6 +5547,7 @@ Vatican City,Comoros,area
 Vatican City,Tonga,area
 Vatican City,Kiribati,area
 Vatican City,Palestine,area
+Vatican City,Cape Verde,area
 Austria,Panama,area
 Austria,Jordan,area
 Austria,Serbia,area
@@ -5482,6 +5563,7 @@ Antigua and Barbuda,Comoros,area
 Antigua and Barbuda,Tonga,area
 Antigua and Barbuda,Kiribati,area
 Antigua and Barbuda,Palestine,area
+Antigua and Barbuda,Cape Verde,area
 Panama,Ireland,area
 Micronesia,Samoa,area
 Micronesia,Saint Vincent and the Grenadines,area
@@ -5494,7 +5576,9 @@ Micronesia,Comoros,area
 Micronesia,Tonga,area
 Micronesia,Kiribati,area
 Micronesia,Palestine,area
+Micronesia,Cape Verde,area
 Ireland,Lithuania,area
+Norway,Côte d'Ivoire,area
 Central African Republic,South Sudan,area
 Burkina Faso,Ecuador,area
 Burkina Faso,New Zealand,area
@@ -5509,11 +5593,13 @@ Moldova,Armenia,area
 Moldova,Albania,area
 Moldova,Bhutan,area
 Moldova,Belgium,area
+Moldova,Taiwan,area
 Armenia,Albania,area
 Armenia,Belize,area
 Armenia,Bhutan,area
 Armenia,Belgium,area
 Armenia,Israel,area
+Armenia,Taiwan,area
 Samoa,Saint Vincent and the Grenadines,area
 Samoa,Seychelles,area
 Samoa,Malta,area
@@ -5526,6 +5612,7 @@ Samoa,Tonga,area
 Samoa,Kiribati,area
 Samoa,Kosovo,area
 Samoa,Palestine,area
+Samoa,Cape Verde,area
 Saint Vincent and the Grenadines,Seychelles,area
 Saint Vincent and the Grenadines,Malta,area
 Saint Vincent and the Grenadines,Maldives,area
@@ -5534,6 +5621,7 @@ Saint Vincent and the Grenadines,Comoros,area
 Saint Vincent and the Grenadines,Tonga,area
 Saint Vincent and the Grenadines,Kiribati,area
 Saint Vincent and the Grenadines,Palestine,area
+Saint Vincent and the Grenadines,Cape Verde,area
 Seychelles,Malta,area
 Seychelles,Maldives,area
 Seychelles,Brunei,area
@@ -5541,6 +5629,7 @@ Seychelles,Comoros,area
 Seychelles,Tonga,area
 Seychelles,Kiribati,area
 Seychelles,Palestine,area
+Seychelles,Cape Verde,area
 Guatemala,Liberia,area
 Ecuador,New Zealand,area
 Malta,Maldives,area
@@ -5549,6 +5638,7 @@ Malta,Comoros,area
 Malta,Tonga,area
 Malta,Kiribati,area
 Malta,Palestine,area
+Malta,Cape Verde,area
 Gambia,Bahamas,area
 Gambia,Kuwait,area
 Gambia,Jamaica,area
@@ -5558,6 +5648,7 @@ Gambia,Tonga,area
 Gambia,Kiribati,area
 Gambia,Kosovo,area
 Gambia,Palestine,area
+Gambia,Cape Verde,area
 Nigeria,Venezuela,area
 Bahamas,Kuwait,area
 Bahamas,Belize,area
@@ -5566,6 +5657,7 @@ Bahamas,Brunei,area
 Bahamas,Israel,area
 Bahamas,Kosovo,area
 Bahamas,Palestine,area
+Bahamas,Cape Verde,area
 Kuwait,Belize,area
 Kuwait,Jamaica,area
 Kuwait,Israel,area
@@ -5575,34 +5667,46 @@ Maldives,Comoros,area
 Maldives,Tonga,area
 Maldives,Kiribati,area
 Maldives,Palestine,area
+Maldives,Cape Verde,area
 Albania,Belize,area
 Albania,Bhutan,area
 Albania,Belgium,area
 Albania,Israel,area
+Albania,Taiwan,area
 Serbia,Portugal,area
 Belize,Belgium,area
 Belize,Israel,area
 Bhutan,Belgium,area
+Bhutan,Taiwan,area
 Jamaica,Brunei,area
 Jamaica,Comoros,area
 Jamaica,Israel,area
 Jamaica,Kosovo,area
 Jamaica,Palestine,area
+Jamaica,Cape Verde,area
+Poland,Côte d'Ivoire,area
 Brunei,Comoros,area
 Brunei,Tonga,area
 Brunei,Kiribati,area
 Brunei,Kosovo,area
 Brunei,Palestine,area
+Brunei,Cape Verde,area
 Comoros,Tonga,area
 Comoros,Kiribati,area
 Comoros,Kosovo,area
 Comoros,Palestine,area
+Comoros,Cape Verde,area
 Tonga,Kiribati,area
 Tonga,Palestine,area
+Tonga,Cape Verde,area
 Kiribati,Palestine,area
+Kiribati,Cape Verde,area
 Belgium,Israel,area
+Belgium,Taiwan,area
 Israel,Kosovo,area
 Kosovo,Palestine,area
+Kosovo,Cape Verde,area
+Palestine,Cape Verde,area
 Grenada,Barbados,population
 Grenada,Saint Kitts and Nevis,population
 Grenada,Andorra,population
@@ -5639,6 +5743,7 @@ Grenada,Brunei,population
 Grenada,Comoros,population
 Grenada,Tonga,population
 Grenada,Kiribati,population
+Grenada,Cape Verde,population
 Switzerland,Sierra Leone,population
 Switzerland,Papua New Guinea,population
 Switzerland,Belarus,population
@@ -5702,6 +5807,7 @@ Barbados,Brunei,population
 Barbados,Comoros,population
 Barbados,Tonga,population
 Barbados,Kiribati,population
+Barbados,Cape Verde,population
 Tunisia,Benin,population
 Tunisia,Burundi,population
 Tunisia,Dominican Republic,population
@@ -5753,6 +5859,7 @@ Saint Kitts and Nevis,Brunei,population
 Saint Kitts and Nevis,Comoros,population
 Saint Kitts and Nevis,Tonga,population
 Saint Kitts and Nevis,Kiribati,population
+Saint Kitts and Nevis,Cape Verde,population
 Laos,Libya,population
 Laos,Lebanon,population
 Laos,Paraguay,population
@@ -5795,6 +5902,7 @@ Andorra,Brunei,population
 Andorra,Comoros,population
 Andorra,Tonga,population
 Andorra,Kiribati,population
+Andorra,Cape Verde,population
 Burundi,Cuba,population
 Burundi,Haiti,population
 Burundi,Bolivia,population
@@ -5855,6 +5963,7 @@ North Macedonia,Albania,population
 North Macedonia,Jamaica,population
 North Macedonia,Kosovo,population
 Yemen,Nepal,population
+Yemen,Côte d'Ivoire,population
 Solomon Islands,Djibouti,population
 Solomon Islands,Mauritius,population
 Solomon Islands,Fiji,population
@@ -5894,6 +6003,7 @@ Solomon Islands,Brunei,population
 Solomon Islands,Comoros,population
 Solomon Islands,Tonga,population
 Solomon Islands,Kiribati,population
+Solomon Islands,Cape Verde,population
 Uzbekistan,Saudi Arabia,population
 Senegal,Netherlands,population
 Senegal,Syria,population
@@ -5944,6 +6054,7 @@ Finland,Liberia,population
 Finland,New Zealand,population
 Finland,Palestine,population
 Finland,Republic of the Congo,population
+Niger,Taiwan,population
 Guinea-Bissau,Djibouti,population
 Guinea-Bissau,Mauritius,population
 Guinea-Bissau,Botswana,population
@@ -6018,6 +6129,7 @@ Djibouti,Comoros,population
 Djibouti,Tonga,population
 Djibouti,Kiribati,population
 Djibouti,Kosovo,population
+Djibouti,Cape Verde,population
 North Korea,Australia,population
 North Korea,Cameroon,population
 Mauritius,Fiji,population
@@ -6045,6 +6157,7 @@ Mauritius,Bhutan,population
 Mauritius,Brunei,population
 Mauritius,Comoros,population
 Mauritius,Kosovo,population
+Mauritius,Cape Verde,population
 Colombia,South Korea,population
 Greece,Dominican Republic,population
 Greece,United Arab Emirates,population
@@ -6115,6 +6228,7 @@ Fiji,Comoros,population
 Fiji,Tonga,population
 Fiji,Kiribati,population
 Fiji,Kosovo,population
+Fiji,Cape Verde,population
 Liechtenstein,Monaco,population
 Liechtenstein,Montenegro,population
 Liechtenstein,San Marino,population
@@ -6144,7 +6258,9 @@ Liechtenstein,Brunei,population
 Liechtenstein,Comoros,population
 Liechtenstein,Tonga,population
 Liechtenstein,Kiribati,population
+Liechtenstein,Cape Verde,population
 Nepal,Venezuela,population
+Nepal,Côte d'Ivoire,population
 Georgia,Qatar,population
 Georgia,Bosnia and Herzegovina,population
 Georgia,Uruguay,population
@@ -6184,6 +6300,7 @@ Monaco,Brunei,population
 Monaco,Comoros,population
 Monaco,Tonga,population
 Monaco,Kiribati,population
+Monaco,Cape Verde,population
 Botswana,Qatar,population
 Botswana,Namibia,population
 Botswana,Bosnia and Herzegovina,population
@@ -6278,6 +6395,7 @@ Montenegro,Brunei,population
 Montenegro,Comoros,population
 Montenegro,Tonga,population
 Montenegro,Kiribati,population
+Montenegro,Cape Verde,population
 Eswatini,Cyprus,population
 Eswatini,Slovenia,population
 Eswatini,Lesotho,population
@@ -6302,6 +6420,7 @@ Eswatini,Bhutan,population
 Eswatini,Brunei,population
 Eswatini,Comoros,population
 Eswatini,Kosovo,population
+Eswatini,Cape Verde,population
 Paraguay,El Salvador,population
 Paraguay,Bulgaria,population
 Paraguay,Kyrgyzstan,population
@@ -6388,6 +6507,7 @@ Cyprus,Bhutan,population
 Cyprus,Brunei,population
 Cyprus,Comoros,population
 Cyprus,Kosovo,population
+Cyprus,Cape Verde,population
 Canada,Poland,population
 Malawi,Romania,population
 Malawi,Kazakhstan,population
@@ -6455,6 +6575,7 @@ San Marino,Brunei,population
 San Marino,Comoros,population
 San Marino,Tonga,population
 San Marino,Kiribati,population
+San Marino,Cape Verde,population
 Lesotho,Equatorial Guinea,population
 Lesotho,Latvia,population
 Lesotho,Bahrain,population
@@ -6493,6 +6614,7 @@ Marshall Islands,Brunei,population
 Marshall Islands,Comoros,population
 Marshall Islands,Tonga,population
 Marshall Islands,Kiribati,population
+Marshall Islands,Cape Verde,population
 Iceland,Luxembourg,population
 Iceland,Nauru,population
 Iceland,Dominica,population
@@ -6519,6 +6641,7 @@ Iceland,Brunei,population
 Iceland,Comoros,population
 Iceland,Tonga,population
 Iceland,Kiribati,population
+Iceland,Cape Verde,population
 Luxembourg,Nauru,population
 Luxembourg,Dominica,population
 Luxembourg,Tuvalu,population
@@ -6546,6 +6669,7 @@ Luxembourg,Brunei,population
 Luxembourg,Comoros,population
 Luxembourg,Tonga,population
 Luxembourg,Kiribati,population
+Luxembourg,Cape Verde,population
 Nauru,Dominica,population
 Nauru,Tuvalu,population
 Nauru,Saint Lucia,population
@@ -6568,6 +6692,7 @@ Nauru,Brunei,population
 Nauru,Comoros,population
 Nauru,Tonga,population
 Nauru,Kiribati,population
+Nauru,Cape Verde,population
 Dominica,Tuvalu,population
 Dominica,Saint Lucia,population
 Dominica,Palau,population
@@ -6589,6 +6714,7 @@ Dominica,Brunei,population
 Dominica,Comoros,population
 Dominica,Tonga,population
 Dominica,Kiribati,population
+Dominica,Cape Verde,population
 Costa Rica,Denmark,population
 Costa Rica,Turkmenistan,population
 Costa Rica,Panama,population
@@ -6627,6 +6753,7 @@ Tuvalu,Brunei,population
 Tuvalu,Comoros,population
 Tuvalu,Tonga,population
 Tuvalu,Kiribati,population
+Tuvalu,Cape Verde,population
 Honduras,Belarus,population
 Honduras,Czechia,population
 Honduras,Austria,population
@@ -6647,6 +6774,7 @@ Equatorial Guinea,Bhutan,population
 Equatorial Guinea,Brunei,population
 Equatorial Guinea,Comoros,population
 Equatorial Guinea,Kosovo,population
+Equatorial Guinea,Cape Verde,population
 Saint Lucia,Palau,population
 Saint Lucia,Suriname,population
 Saint Lucia,Vanuatu,population
@@ -6666,6 +6794,7 @@ Saint Lucia,Brunei,population
 Saint Lucia,Comoros,population
 Saint Lucia,Tonga,population
 Saint Lucia,Kiribati,population
+Saint Lucia,Cape Verde,population
 Belarus,Austria,population
 Belarus,Jordan,population
 Belarus,Tajikistan,population
@@ -6698,6 +6827,7 @@ Palau,Brunei,population
 Palau,Comoros,population
 Palau,Tonga,population
 Palau,Kiribati,population
+Palau,Cape Verde,population
 Denmark,Turkmenistan,population
 Denmark,Ireland,population
 Denmark,Norway,population
@@ -6738,6 +6868,7 @@ Suriname,Brunei,population
 Suriname,Comoros,population
 Suriname,Tonga,population
 Suriname,Kiribati,population
+Suriname,Cape Verde,population
 Somalia,Guatemala,population
 Somalia,Chad,population
 Czechia,Jordan,population
@@ -6761,6 +6892,7 @@ Vanuatu,Brunei,population
 Vanuatu,Comoros,population
 Vanuatu,Tonga,population
 Vanuatu,Kiribati,population
+Vanuatu,Cape Verde,population
 Togo,Austria,population
 Togo,Israel,population
 Kenya,Myanmar,population
@@ -6775,6 +6907,7 @@ Estonia,Bhutan,population
 Estonia,Brunei,population
 Estonia,Comoros,population
 Estonia,Kosovo,population
+Estonia,Cape Verde,population
 Romania,Kazakhstan,population
 Romania,Mali,population
 Romania,Chile,population
@@ -6786,6 +6919,7 @@ Trinidad and Tobago,Bhutan,population
 Trinidad and Tobago,Brunei,population
 Trinidad and Tobago,Comoros,population
 Trinidad and Tobago,Kosovo,population
+Trinidad and Tobago,Cape Verde,population
 Guyana,Timor-Leste,population
 Guyana,Vatican City,population
 Guyana,Antigua and Barbuda,population
@@ -6803,6 +6937,7 @@ Guyana,Comoros,population
 Guyana,Tonga,population
 Guyana,Kiribati,population
 Guyana,Kosovo,population
+Guyana,Cape Verde,population
 Timor-Leste,Malta,population
 Timor-Leste,Bahamas,population
 Timor-Leste,Maldives,population
@@ -6811,6 +6946,7 @@ Timor-Leste,Bhutan,population
 Timor-Leste,Brunei,population
 Timor-Leste,Comoros,population
 Timor-Leste,Kosovo,population
+Timor-Leste,Cape Verde,population
 Uruguay,Panama,population
 Uruguay,Lithuania,population
 Uruguay,Moldova,population
@@ -6833,6 +6969,7 @@ Vatican City,Brunei,population
 Vatican City,Comoros,population
 Vatican City,Tonga,population
 Vatican City,Kiribati,population
+Vatican City,Cape Verde,population
 Austria,Tajikistan,population
 Austria,Israel,population
 Antigua and Barbuda,Micronesia,population
@@ -6848,6 +6985,7 @@ Antigua and Barbuda,Brunei,population
 Antigua and Barbuda,Comoros,population
 Antigua and Barbuda,Tonga,population
 Antigua and Barbuda,Kiribati,population
+Antigua and Barbuda,Cape Verde,population
 Turkmenistan,Norway,population
 Turkmenistan,Eritrea,population
 Turkmenistan,Slovakia,population
@@ -6876,6 +7014,7 @@ Micronesia,Brunei,population
 Micronesia,Comoros,population
 Micronesia,Tonga,population
 Micronesia,Kiribati,population
+Micronesia,Cape Verde,population
 Ireland,Norway,population
 Ireland,Central African Republic,population
 Ireland,Eritrea,population
@@ -6948,6 +7087,7 @@ Samoa,Brunei,population
 Samoa,Comoros,population
 Samoa,Tonga,population
 Samoa,Kiribati,population
+Samoa,Cape Verde,population
 Bolivia,South Sudan,population
 Bolivia,Belgium,population
 Saint Vincent and the Grenadines,Seychelles,population
@@ -6960,6 +7100,7 @@ Saint Vincent and the Grenadines,Brunei,population
 Saint Vincent and the Grenadines,Comoros,population
 Saint Vincent and the Grenadines,Tonga,population
 Saint Vincent and the Grenadines,Kiribati,population
+Saint Vincent and the Grenadines,Cape Verde,population
 Seychelles,Malta,population
 Seychelles,Bahamas,population
 Seychelles,Maldives,population
@@ -6969,6 +7110,7 @@ Seychelles,Brunei,population
 Seychelles,Comoros,population
 Seychelles,Tonga,population
 Seychelles,Kiribati,population
+Seychelles,Cape Verde,population
 Guatemala,Ecuador,population
 Guatemala,Chad,population
 Tajikistan,Portugal,population
@@ -6981,6 +7123,7 @@ Malta,Brunei,population
 Malta,Comoros,population
 Malta,Tonga,population
 Malta,Kiribati,population
+Malta,Cape Verde,population
 Gambia,Albania,population
 Gambia,Jamaica,population
 Gambia,Mongolia,population
@@ -6992,6 +7135,7 @@ Bahamas,Brunei,population
 Bahamas,Comoros,population
 Bahamas,Tonga,population
 Bahamas,Kiribati,population
+Bahamas,Cape Verde,population
 Kuwait,Liberia,population
 Kuwait,Mongolia,population
 Kuwait,New Zealand,population
@@ -7001,6 +7145,7 @@ Maldives,Brunei,population
 Maldives,Comoros,population
 Maldives,Tonga,population
 Maldives,Kiribati,population
+Maldives,Cape Verde,population
 South Sudan,Portugal,population
 South Sudan,Belgium,population
 Albania,Jamaica,population
@@ -7012,20 +7157,27 @@ Belize,Brunei,population
 Belize,Comoros,population
 Belize,Tonga,population
 Belize,Kiribati,population
+Belize,Cape Verde,population
 Bhutan,Brunei,population
 Bhutan,Comoros,population
 Bhutan,Tonga,population
 Bhutan,Kiribati,population
+Bhutan,Cape Verde,population
+Venezuela,Côte d'Ivoire,population
 Liberia,New Zealand,population
 Liberia,Palestine,population
 Jamaica,Mongolia,population
 Brunei,Comoros,population
 Brunei,Tonga,population
 Brunei,Kiribati,population
+Brunei,Cape Verde,population
 Comoros,Tonga,population
 Comoros,Kiribati,population
 Comoros,Kosovo,population
+Comoros,Cape Verde,population
 Tonga,Kiribati,population
+Tonga,Cape Verde,population
+Kiribati,Cape Verde,population
 New Zealand,Palestine,population
 Nicaragua,Republic of the Congo,population
 Palestine,Republic of the Congo,population
