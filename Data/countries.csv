@@ -192,6 +192,6 @@ Nicaragua,NIC,True,Nicaraguan córdoba,Spanish,False,CRI;HND,130373.0,6624554,UT
 Kosovo,UNK,False,Euro,Albanian;Serbian,True,ALB;MNE;SRB;MKD,10887.0,1772128,UTC+01:00,blue;yellow;white,154.5,5662.0,,
 Palestine,PSE,False,Israeli new shekel;United States dollar;Jordanian dinar,Arabic,True,EGY;JOR;ISR,6020.0,5589623,UTC+02:00,red;black;white;green,912.9,3640,,
 Republic of the Congo,COG,True,Congolese franc,French;Kikongo;Lingalal;Swahili;Tshiluba,False,GAB;CMR;CAF;COD;AGO,342000.0,6107000,UTC+01:00,yellow;green;red,18.5,2570,CHN;FRA;BEL,CHN;CIV;TGO
-Côte d'Ivoire,CIV,True,,,,,,,,,,,,
-Cape Verde,CPV,True,,,,,,,,,,,,
-Taiwan,TWN,False,,,,,,,,,,,,
+Côte d'Ivoire,CIV,True,West African CFA franc,French,False,LBR;GIN;MLI;BFA;GHA,322463.0,28870000,,,,,,
+Cape Verde,CPV,True,Cape Verdean escudo,Portuguese,False,,4033.0,598682,,,,,,
+Taiwan,TWN,False,New Taiwan dollar,Mandarin,False,,36197.0,23420000,,,,,,
