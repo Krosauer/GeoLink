@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 nodes_df = pd.read_csv('../Data/countries.csv')
 edges_df = pd.read_csv('../Data/edges.csv')
 
-G = nx.Graph()
+G = nx.MultiGraph()
 for _, row in nodes_df.iterrows():
     G.add_node(row['name'], cca3=row['cca3'], un_member=row['un_member'], 
                currencies=row['currencies'], languages=row['languages'], 
@@ -21,3 +21,4 @@ for index, row in edges_df.iterrows():
     if country1 in valid_nodes and country2 in valid_nodes:
         G.add_edge(country1, country2, connection_type=row['type'])
 
+print(G.number_of_edges())
