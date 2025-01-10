@@ -13,17 +13,21 @@ function PendingState(props) {
   }
 
   return (
-    <div className={styles.pendingContainer}>
+    <div className={styles.guessedContainer}>
       <h1 className={styles.countryName}>{props.name}</h1>
       <div className={styles.flag}>{getFlagEmoji(props.code)}</div>
       <h3>Valid Connections:</h3>
-      <ul>
-        {possileAttributes.map(([key, value]) => (
-          <li key={key}>
-            <strong>{key}</strong>: {value}
-          </li>
-        ))}
-      </ul>
+      <div className={styles.listContainer}>
+        <ul>
+          {possileAttributes.map(([key, value]) => (
+            <li key={key}>
+                <span className={styles.attribute}>{key}</span>
+                <span className={styles.icon}>{value[1]}</span>
+                <span className={styles.value}>{value[0]}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>  
 
   );
