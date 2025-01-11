@@ -16,21 +16,8 @@ import { FaLink } from 'react-icons/fa'
 import { FaLayerGroup } from 'react-icons/fa'
 
 function App() {
-  const name = 'United States'
-  const code = 'us'
-
-  const attributes = {
-    Population: [331449281, <FaCity />],
-    Area: [9833520, <FaExpand />],
-    Currency: ['United States Dollar', <FaCoins />],
-    Language: ['English', <FaComment />],
-    Timezone: ['UTC-4 to UTC-12', <FaClock />],
-    Landlocked: ['No', <FaLock />],
-    Borders: ['Canada, Mexico', <FaLink />],
-  }
   return (
     <>
-      <GuessedState name={name} code={code} attributes={attributes} />
     </>
   )
 }
