@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState,useEffect } from 'react'
 import GuessedState from './Components/CountryDisplays/GuessedState.jsx'
 import BaseState from './Components/CountryDisplays/BaseState.jsx'
 import PendingState from './Components/CountryDisplays/PendingState.jsx'
@@ -14,10 +14,27 @@ import { FaPaintBrush } from 'react-icons/fa'
 import { FaCity } from 'react-icons/fa'
 import { FaLink } from 'react-icons/fa'
 import { FaLayerGroup } from 'react-icons/fa'
+import axios from 'axios'
 
 function App() {
   const name = 'United States'
   const code = 'us'
+
+  const [graph, setGraph] = useState(null);
+  
+
+  //load whole graph from the server
+  useEffect(() => {
+    axios.get('http://localhost:8080/graph')
+      .then(response => {
+        console.log(response.data);
+      })
+      .catch(error => {
+        console.error('Error fetching the graph:', error);
+      });
+  }, []); 
+
+
 
   const attributes = {
     Population: [331449281, <FaCity />],
