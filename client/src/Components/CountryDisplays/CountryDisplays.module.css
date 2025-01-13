@@ -3,13 +3,14 @@
 
 }    
 .guessedContainer {
-  width: 25%;
   background-color: var(--primary-color);
   display: flex;
   flex-direction: column;
   align-items: center;
   height: 100%;
-
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: auto;
 }
 .listContainer {
   padding: 5px;
@@ -22,8 +23,39 @@
 }
 
 
-.flag {
+.arrayItem {
+  padding: 4px;
+  font-size: 0.85rem;
 }
+.baseStateContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: var(--primary-color);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: auto;
+  font-family: sans-serif;
+}
+
+.mustContainMessage {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.countryCard {
+  padding: 15px;
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #b2ebf2;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 100%;
+}
+
+
 
 ul {
   list-style: none;

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import GuessedState from "./Components/CountryDisplays/GuessedState.jsx";
 import BaseState from "./Components/CountryDisplays/BaseState.jsx";
 import PendingState from "./Components/CountryDisplays/PendingState.jsx";
+import GuessComparison from "./Components/GuessComparison/GuessComparison.jsx";
 import "./index.css";
 function App() {
 
@@ -229,7 +230,7 @@ function App() {
           : [],
           population: country.population,
           area: country.area,
-          timezone: country.timezone ? country.timezone.split(";") : [],
+          timezones: country.timezone ? country.timezone.split(";") : [],
           gdp_per_capita: country.gdp_per_capita,
           population_density: country.population_density,
           flag_colors: country.flag_colors ? country.flag_colors.split(";") : [],
@@ -243,17 +244,24 @@ function App() {
   }, [data]);
 
   useEffect(() => {
-    console.log("Updated countries:", countries);
   }, [countries]);
 
 
 
-
+  const compInfo = {
+    from: "Meixco",
+    to: "Spain",
+    type: "bordering",
+  }
 
   return (
 
     <>
-      {countries["Italy"] && <GuessedState attributes={countries["Italy"]} />}
+      <div className="countryContainer">
+        {countries["Mexico"] && <GuessedState attributes={countries['Mexico']} />} 
+        <GuessComparison compInfo={compInfo}/>
+        {countries["China"] && <GuessedState attributes={countries['China']} />}
+      </div>
     </>
 
   );

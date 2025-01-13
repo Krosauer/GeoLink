@@ -16,14 +16,9 @@ import Flag from './Flag.jsx';
 function GuessedState(props) {
 
   const attributes = Object.entries(props?.attributes);
-  const visibleAttributes = attributes.slice(0, 2);
-  const hiddenAttributes = attributes.slice(2);
+  const visibleAttributes = attributes.slice(2, 4);
+  const hiddenAttributes = attributes.slice(4,attributes.length - 1);
   const [showMore, setShowMore] = useState(false);
-  function getFlagEmoji(countryCode) {
-    return String.fromCodePoint(
-      ...[...countryCode.toUpperCase()].map((char) => 127397 + char.charCodeAt())
-    );
-  }
 
 
   const color_dict = {
@@ -41,7 +36,15 @@ function GuessedState(props) {
     'imports' : {icon: <FaPeopleArrows />, color: 'black'},
   }
 
-
+  function renderAttributes(value) {
+    if (Array.isArray(value)) {
+      return value.join(', ');
+    }
+    if (typeof value === 'boolean') {
+      return value ? 'Yes' : 'No';
+    }
+    return value;
+  }
 
   return (
     <div className={styles.guessedContainer}>
@@ -52,8 +55,9 @@ function GuessedState(props) {
           {visibleAttributes.map(([key, value]) => (
             <li key={key}>
                 <span className={styles.attribute}>{key}</span>
-                <span style={{color: color_dict[key]?.color || 'black'}} className={styles.icon}>{value[1]}</span>
-                <span className={styles.value}>{value[0]}</span>
+                <span style={{color: color_dict[key]?.color || 'black'}}
+                className={styles.icon}>{color_dict[key].icon}</span>
+                <span className={styles.value}>{renderAttributes(value)}</span>
             </li>
           ))}
         </ul>
@@ -62,8 +66,9 @@ function GuessedState(props) {
             {hiddenAttributes.map(([key, value]) => (
               <li key={key}>
                 <span className={styles.attribute}>{key}</span>
-                <span style={{color: color_dict[key]?.color || 'black'}} className={styles.icon}>{value[1]}</span>
-                <span className={styles.value}>{value[0]}</span>
+                <span style={{color: color_dict[key]?.color || 'black'}}
+                className={styles.icon}>{color_dict[key].icon}</span>
+                <span className={styles.value}>{renderAttributes(value)}</span>
               </li>
             ))}
           </ul>
