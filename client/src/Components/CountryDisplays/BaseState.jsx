@@ -6,7 +6,7 @@ function BaseState(props) {
   return (
     <div className={styles.baseStateContainer}>
       <h1 className={styles.mustContainMessage}>Next Country Must Connect To:</h1>
-      <h1 className={styles.baseCountryName}>{props.name}</h1>
+      <h1 className={styles.baseCountryName}>{props?.attributes.id}</h1>
     </div>
   );
 

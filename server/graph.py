@@ -1,8 +1,8 @@
 import pandas as pd
 import networkx as nx
 
-nodes_df = pd.read_csv('../Data/new_countries.csv')
-edges_df = pd.read_csv('../Data/edges.csv')
+nodes_df = pd.read_csv('../Data/new_countries.csv', keep_default_na=False)
+edges_df = pd.read_csv('../Data/edges.csv', keep_default_na=False)
 
 G = nx.MultiGraph()
 for _, row in nodes_df.iterrows():
@@ -10,7 +10,8 @@ for _, row in nodes_df.iterrows():
                currencies=row['currencies'], languages=row['languages'], 
                landlocked=row['landlocked'], area=row['area'], population=row['population'], 
                timezones=row['timezones'], flag_colors=row['flag_colors'],
-               population_density=row['population_density'], gdp_per_capita=row['GDP Per Capita'],
+               population_density=row['population_density'],borders=row['borders'],
+               gdp_per_capita=row['GDP Per Capita'],
                exports=row['exports'], imports=row['imports'])
 
 valid_nodes = set(G.nodes())

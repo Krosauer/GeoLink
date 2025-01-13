@@ -15,7 +15,7 @@ import Flag from './Flag.jsx';
 
 function GuessedState(props) {
 
-  const attributes = Object.entries(props.attributes);
+  const attributes = Object.entries(props?.attributes);
   const visibleAttributes = attributes.slice(0, 2);
   const hiddenAttributes = attributes.slice(2);
   const [showMore, setShowMore] = useState(false);
@@ -27,16 +27,16 @@ function GuessedState(props) {
 
 
   const color_dict = {
-    'Currency' : {icon: <FaCoins />, color: 'gold'},
-    'Language' : {icon: <FaComment />, color: 'lightblue'},
-    'Landlocked' : {icon: <FaLock />, color: 'gray'},
-    'Borders' : {icon: <FaLink />, color: 'green'},
-    'Population' : {icon: <FaCity />, color: 'cornflowerblue'},
-    'Area' : {icon: <FaExpand />, color: 'orange'},
-    'Timezone' : {icon: <FaClock />, color: 'pink'},
-    'GDP' : {icon: <FaMoneyBill />, color: 'green'},
-    'Population Density' : {icon: <FaLayerGroup />, color: 'pink'},
-    'Flag Colors' : {icon: <FaPaintBrush />, color: 'orange'},
+    'currencies' : {icon: <FaCoins />, color: 'gold'},
+    'languages' : {icon: <FaComment />, color: 'lightblue'},
+    'landlocked' : {icon: <FaLock />, color: 'gray'},
+    'borders' : {icon: <FaLink />, color: 'green'},
+    'population' : {icon: <FaCity />, color: 'cornflowerblue'},
+    'area' : {icon: <FaExpand />, color: 'orange'},
+    'timezones' : {icon: <FaClock />, color: 'pink'},
+    'gdp_per_capita' : {icon: <FaMoneyBill />, color: 'green'},
+    'population_density' : {icon: <FaLayerGroup />, color: 'pink'},
+    'flag_colors' : {icon: <FaPaintBrush />, color: 'orange'},
     'exports' : {icon: <FaPeopleArrows />, color: 'black'},
     'imports' : {icon: <FaPeopleArrows />, color: 'black'},
   }
@@ -45,14 +45,14 @@ function GuessedState(props) {
 
   return (
     <div className={styles.guessedContainer}>
-      <h1 className={styles.countryName}>{props.name}</h1>
-      <Flag code={props.code} className={styles.flag} />
+      <h1 className={styles.countryName}>{props?.attributes.id}</h1>
+      <Flag code={props?.attributes.cca2} className={styles.flag} />
       <div className={styles.listContainer}>
         <ul>
           {visibleAttributes.map(([key, value]) => (
             <li key={key}>
                 <span className={styles.attribute}>{key}</span>
-                <span style={{color: color_dict[key].color}} className={styles.icon}>{value[1]}</span>
+                <span style={{color: color_dict[key]?.color || 'black'}} className={styles.icon}>{value[1]}</span>
                 <span className={styles.value}>{value[0]}</span>
             </li>
           ))}
@@ -62,7 +62,7 @@ function GuessedState(props) {
             {hiddenAttributes.map(([key, value]) => (
               <li key={key}>
                 <span className={styles.attribute}>{key}</span>
-                <span style={{color: color_dict[key].color}} className={styles.icon}>{value[1]}</span>
+                <span style={{color: color_dict[key]?.color || 'black'}} className={styles.icon}>{value[1]}</span>
                 <span className={styles.value}>{value[0]}</span>
               </li>
             ))}
